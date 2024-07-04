@@ -1,4 +1,4 @@
-![Database Administrator ](https://media.licdn.com/dms/image/D5603AQGzqgbbn05IBg/profile-displayphoto-shrink_400_400/0/1701939870250?e=1725494400&v=beta&t=3iUM2TsRjnCsBMMTKDZRtROkYHK_CHSkBw4p-Jz8Hq0)
+![Database Administrator ](https://media.licdn.com/dms/image/C4D16AQG0xMxeklctiA/profile-displaybackgroundimage-shrink_350_1400/0/1653232755332?e=1725494400&v=beta&t=GT8yOiG8sdLJKpHmfdvWzgmwtyKQWJw9Fby-osjJdio)
 
 ### Hi there 👋, MD RAJIBUL ISAM
 #### Database Administrator 
@@ -17,12 +17,4 @@ Skills: Oracle DBA | ADG | RAC | Oracle Apex | WebLogic | Apex Clustering | MYSQ
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rajibul2009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rajibul-islam-76280ba1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@itschoolbangla100)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajibul2009)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibul2009&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/rajibul2009)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rajibul2009)  
 
