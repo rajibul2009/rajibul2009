@@ -1,7 +1,7 @@
 ![Database Administrator ](https://media.licdn.com/dms/image/C4D16AQG0xMxeklctiA/profile-displaybackgroundimage-shrink_350_1400/0/1653232755332?e=1725494400&v=beta&t=GT8yOiG8sdLJKpHmfdvWzgmwtyKQWJw9Fby-osjJdio)
 
 ### Hi there 👋, MD RAJIBUL ISAM
-#### Database Administrator 
+#### Oracle Database Administrator 
 
 
 Oracle DBA experience managing complex UNIX-based Oracle Databases. Experienced in a database administration best practices for High Availability (DATA GUARD, RMAN, RAC) and Performance Tuning and Oracle Troubleshooting. Following are key highlights of my experience.
