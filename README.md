@@ -32,3 +32,20 @@ Currently, I'm also involved in **Network, Systems, and Cloud Operations**. My r
 - 🔭 I’m currently working as **Manager – Database Administrator & DevOps** at *City Group (Asgar Ali Medical College and Hospital)*  
 - 🌱 I’m currently learning **Oracle GoldenGate**  
 - 👯 I’m looking to collaborate on **GitHub** with open-source and DevOps communities
+---
+## Connect with me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@13.7.0/icons/github.svg' alt='GitHub' height='40' style='fill:#181717'>](https://github.com/rajibul2009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@13.7.0/icons/linkedin.svg' alt='LinkedIn' height='40' style='fill:#0A66C2'>](https://www.linkedin.com/in/md-rajibul-islam-76280ba1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@13.7.0/icons/youtube.svg' alt='YouTube' height='40' style='fill:#FF0000'>](https://www.youtube.com/channel/@itschoolbangla100)  
+
+
+## 🐳 Technologies & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="40"/>
+</p>
