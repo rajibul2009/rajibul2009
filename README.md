@@ -1,5 +1,14 @@
 ![Database Administrator ](https://media.licdn.com/dms/image/C4D16AQG0xMxeklctiA/profile-displaybackgroundimage-shrink_350_1400/0/1653232755332?e=1725494400&v=beta&t=GT8yOiG8sdLJKpHmfdvWzgmwtyKQWJw9Fby-osjJdio)
 
+
+
+<h1 align="center">Hi 👋, I'm Rajibul Islam</h1>
+<h3 align="center">Oracle DBA | DevOps Enthusiast | Cloud Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Oracle+DBA+with+13%2B+years+experience;Loves+Linux%2C+SQL%2C+Cloud+%26+Automation;DevOps+Tools+Learning+Everyday!" alt="Typing SVG" />
+</p>
+
 ### Hi there 👋, MD RAJIBUL ISAM
 ####  Manager (Database Administrator )
 
@@ -15,16 +24,56 @@ Skills: Oracle DBA | ADG | RAC | Oracle Apex | WebLogic | Apex Clustering | MYSQ
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Manager (Database Administrator)
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rajibul2009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rajibul-islam-76280ba1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@itschoolbangla100)  
+### 🔗 Connect with me
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="Docker" width="40" height="40" title="Docker"/>](https://www.docker.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg" alt="AWS" width="40" height="40" title="AWS"/>](https://aws.amazon.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="Git" width="40" height="40" title="Git"/>](https://git-scm.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cubrid.svg" alt="CUBRID" width="40" height="40" title="CUBRID"/>](https://www.cubrid.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jekyll.svg" alt="Jekyll" width="40" height="40" title="Jekyll"/>](https://jekyllrb.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="MySQL" width="40" height="40" title="MySQL"/>](https://www.mysql.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>](https://www.postgresql.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/oracle.svg" alt="Oracle Database" width="40" height="40" title="Oracle"/>](https://www.oracle.com/database/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftsqlserver.svg" alt="MS SQL Server" width="40" height="40" title="MS SQL"/>](https://www.microsoft.com/sql-server/)
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="color:#0e76a8;"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="gmail" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/your-github-username" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="github" height="30" width="40"/>
+  </a>
+</p>
+
+---
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="MSSQL"/>
+</p>
+
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajibul2009&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Website: [rajibulislam.com](https://rajibulislam.com)  
+- 🔗 LinkedIn: [in/rajibul2009](https://linkedin.com/in/rajibul2009)  
+- 📧 Email: rajibul2009@gmail.com
+
+---
+
+⭐ _Thanks for visiting my profile! Feel free to connect or collaborate!_
 
